@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-Name: 		Snaphoology
+Name: 		Snapbingsoo
 Version:  1.0
 Author:		Nazar Miller (millerDigitalDesign)
 Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
